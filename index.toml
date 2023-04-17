@@ -73,6 +73,11 @@ hash = "f712564ede6f2238d5256457710355f8569401b222ae950197cae3062c0d20e8"
 metafile = true
 
 [[files]]
+file = "mods/dragon-deleter.pw.toml"
+hash = "518b9feb59805df3a193ee1bef7cfdc9de64f977c577f8167f3ce4a742b0275b"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true

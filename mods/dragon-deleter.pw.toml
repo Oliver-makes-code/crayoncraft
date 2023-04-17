@@ -1,0 +1,13 @@
+name = "DragonDeleter"
+filename = "dragon-deleter-1.19.2-1.1.0.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/uWKwoIcf/versions/P3Nh26D0/dragon-deleter-1.19.2-1.1.0.jar"
+hash-format = "sha1"
+hash = "bef2240ecc64b6194b7723eb1869e825f4a9ec17"
+
+[update]
+[update.modrinth]
+mod-id = "uWKwoIcf"
+version = "P3Nh26D0"
