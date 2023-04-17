@@ -1,0 +1,13 @@
+name = "CrayonCraft"
+author = "The Crayons"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "4677ab77661f916217ab3f1392dc5cf0ead9155c7d2768d74bce36e9f3ca7313"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.18.9"

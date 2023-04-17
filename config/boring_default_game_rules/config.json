@@ -1,0 +1,9 @@
+{
+	"$schema": "",
+	"default_game_rules": {
+		"chargedCreeperDestructionType": "DAMAGE_ONLY",
+		"creeperDestructionType": "DAMAGE_ONLY",
+		"keepInventory": true
+	},
+	"generate_json_schema": false
+}
