@@ -17,6 +17,11 @@ file = "icon.png"
 hash = "31cae1e70d1394a3798069d90feb5388499cc524e573ff7070efeee740ceae5b"
 
 [[files]]
+file = "mods/armorstandeditor.pw.toml"
+hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
+metafile = true
+
+[[files]]
 file = "mods/aurorasdecorations.pw.toml"
 hash = "bd09ebfd5bc4373d183342d0fff77135c3b56dccb41afec09755d275f62eadd4"
 metafile = true
@@ -45,6 +50,10 @@ metafile = true
 file = "mods/boring-default-game-rules.pw.toml"
 hash = "02d4e8a366a52186c118a5571ff6afcc1f87c8edd9b9e957f15383fb35a51cc6"
 metafile = true
+
+[[files]]
+file = "mods/boring_starting_loot-0.1.0-crayon.1+1.19.4.jar"
+hash = "ad812e88a97d1a2a8e42fe6c1c6a2352e91aa56cf9af7b822ce90399fe024c6f"
 
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
@@ -188,7 +197,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "b3ab1dd61a6db67f49b5f43142976676e02e5da43f17d881bee66b47db286e02"
+hash = "a0febce406dd277730980450f98c94a80179b8df55e2136279003f30ae8eeaba"
 metafile = true
 
 [[files]]
@@ -213,7 +222,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "af65d6e2731b3743750a52f5e4e0918529020bac006dd12b75e4791a5ef64359"
+hash = "2be4982347eeeab54a6bcb64f5b6d0fa854a477396e3daf221f485fe260f427d"
 metafile = true
 
 [[files]]
@@ -243,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "03cc8b17e9407ce032adacc46fd4b5294a9906fc3ea61fc214eb3ffcb04e923b"
+hash = "4930ebd12f821d0414f3bdff610b9fa9ce431a17f70dbe30f604e67441bb03e9"
 metafile = true
 
 [[files]]
@@ -284,6 +293,18 @@ metafile = true
 [[files]]
 file = "resources/QDResLoader-README.txt"
 hash = "e1dc9bb9a4377a15016e2b859884d47fadaf7009c08506882a804aa5eafbcc12"
+
+[[files]]
+file = "resources/data/boring_starting_loot/loot_tables/first_join.json"
+hash = "f344bf34cca0d8449235935e92485c73535c4857395a0228da7364c2bb8908d4"
+
+[[files]]
+file = "resources/data/minecraft/loot_tables/entities/shulker.json"
+hash = "3611c54d52e29aa60d994f9446c464c00ed539b135c1bfbcebb9123bcb7924da"
+
+[[files]]
+file = "resources/data/origins/origins/feline.json"
+hash = "f119be7fe1f9544bca316bfdc7b290fd1b68fdaccd3704de867a95ce22deafd6"
 
 [[files]]
 file = "resources/data/quilt_item_content_registry/attachments/minecraft/item/compost_chance.json"
