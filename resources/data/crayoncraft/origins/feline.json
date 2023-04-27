@@ -1,0 +1,16 @@
+{
+	"name": "Feline",
+	"description": "Wildling but it's similar to the Feline origin.",
+	"powers": [
+		"origins_minus:energetic",
+		"origins_minus:bound",
+		"origins_minus:fall_immunity",
+		"origins_minus:bounce",
+		"origins:scare_creepers",
+		"origins:weak_arms"
+	],
+	"icon": {
+		"item": "minecraft:orange_wool"
+	},
+	"impact": 2
+}

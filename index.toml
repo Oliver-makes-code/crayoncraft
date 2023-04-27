@@ -13,6 +13,14 @@ file = "config/fabrication/features.ini"
 hash = "02a10f2a9bd9f6d982c0ea39c58a028015cc547bfb917f3b9ffed2c05e0fe327"
 
 [[files]]
+file = "config/styled-chat.json"
+hash = "eb6124391c4c6734bccc222481009bfc4be13f95ea03e45c456c9f6eedc0bfb0"
+
+[[files]]
+file = "config/styled-nicknames.json"
+hash = "d9860aa5250d32041c2bd9da7cacaa6c161ae883b3234125d892f7bdef32bc25"
+
+[[files]]
 file = "icon.png"
 hash = "31cae1e70d1394a3798069d90feb5388499cc524e573ff7070efeee740ceae5b"
 
@@ -77,7 +85,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "526578b200211dd2da51f81dbf5f15c9e775344ca6e34244d382770b9900cb92"
+hash = "d704cac0396798f84364471332c1d956a99433aa6dc55005153cffc5e31db262"
 metafile = true
 
 [[files]]
@@ -252,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/switchy.pw.toml"
-hash = "4930ebd12f821d0414f3bdff610b9fa9ce431a17f70dbe30f604e67441bb03e9"
+hash = "be68c50e2ee5fa4fda774efd5720f5386b4ef8bded4080efa51d9d94a2ae08af"
 metafile = true
 
 [[files]]
@@ -295,16 +303,24 @@ file = "resources/QDResLoader-README.txt"
 hash = "e1dc9bb9a4377a15016e2b859884d47fadaf7009c08506882a804aa5eafbcc12"
 
 [[files]]
+file = "resources/assets/origins/lang/en_us.json"
+hash = "0870638d9b07b170d0ed2936b3f9e4bdbafbf5a958d3ead0de2c36cf38009973"
+
+[[files]]
 file = "resources/data/boring_starting_loot/loot_tables/first_join.json"
 hash = "f344bf34cca0d8449235935e92485c73535c4857395a0228da7364c2bb8908d4"
+
+[[files]]
+file = "resources/data/crayoncraft/origins/feline.json"
+hash = "46e889dd35ad26758fc03bfdff7da3301d307e2d84eec2030b30b7183f821ef0"
 
 [[files]]
 file = "resources/data/minecraft/loot_tables/entities/shulker.json"
 hash = "3611c54d52e29aa60d994f9446c464c00ed539b135c1bfbcebb9123bcb7924da"
 
 [[files]]
-file = "resources/data/origins/origins/feline.json"
-hash = "f119be7fe1f9544bca316bfdc7b290fd1b68fdaccd3704de867a95ce22deafd6"
+file = "resources/data/origins/origin_layers/origin.json"
+hash = "27abc8d5fd10cae2e0fa9690d15d7900ac0d871a06641e8e1d14f6bdd7a32ad0"
 
 [[files]]
 file = "resources/data/quilt_item_content_registry/attachments/minecraft/item/compost_chance.json"
