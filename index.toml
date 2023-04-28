@@ -14,11 +14,11 @@ hash = "02a10f2a9bd9f6d982c0ea39c58a028015cc547bfb917f3b9ffed2c05e0fe327"
 
 [[files]]
 file = "config/styled-chat.json"
-hash = "eb6124391c4c6734bccc222481009bfc4be13f95ea03e45c456c9f6eedc0bfb0"
+hash = "3ffc36f307a77974f11db3dbeacd789fa64248c5569bdfe0f02729a447298c09"
 
 [[files]]
 file = "config/styled-nicknames.json"
-hash = "d9860aa5250d32041c2bd9da7cacaa6c161ae883b3234125d892f7bdef32bc25"
+hash = "d6b36dd39f60eee923e2aa3ab48c09574833b46967ad25ee90faf6f324b20b45"
 
 [[files]]
 file = "icon.png"

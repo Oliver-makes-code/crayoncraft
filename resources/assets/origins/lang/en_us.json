@@ -1,6 +1,6 @@
 {
     "power.origins.scare_creepers.name": "Creeper's Worst Enemy",
-    "power.origins.scare_creepers.description": "You will scare away creepers.",
+    "power.origins.scare_creepers.description": "Creepers are afraid of you.",
     "power.origins.weak_arms.name": "Weak Arms",
     "power.origins.weak_arms.description": "Stone can't be mined with 3+ adjacent stone blocks without Strength."
 }
