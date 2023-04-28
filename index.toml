@@ -95,7 +95,7 @@ metafile = true
 
 [[files]]
 file = "mods/dragon-deleter.pw.toml"
-hash = "be0bcd0b01a5e9085a1a869fb5645e2a892676659637e2c4a6371e4789ec1357"
+hash = "1c8c546a7e7ac09c2fa098d6ed77157d99e3de819ffc04c279ad0a2342d8fb89"
 metafile = true
 
 [[files]]
@@ -304,7 +304,7 @@ hash = "e1dc9bb9a4377a15016e2b859884d47fadaf7009c08506882a804aa5eafbcc12"
 
 [[files]]
 file = "resources/assets/origins/lang/en_us.json"
-hash = "0870638d9b07b170d0ed2936b3f9e4bdbafbf5a958d3ead0de2c36cf38009973"
+hash = "681c9cbbbb3017409b28ed6422b5f62230286b6785433bcf682a3d8f92f473d6"
 
 [[files]]
 file = "resources/data/boring_starting_loot/loot_tables/first_join.json"

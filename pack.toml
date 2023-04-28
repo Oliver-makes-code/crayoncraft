@@ -1,12 +1,12 @@
 name = "CrayonCraft"
 author = "The Crayons"
-version = "0.1.0"
+version = "0.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "2f53c5e003ec3e4b108c9506612ca3b9ef8305b29ee0487e6e6852a3321fb8a5"
+hash = "cc75ec869543c0b40458f09c50084ec9ffb839435e4a28f7b0695b6a3e6966fb"
 
 [versions]
 minecraft = "1.19.2"
