@@ -1,6 +1,6 @@
 name = "CrayonCraft"
-author = "The Crayons"
-version = "0.1.1"
+author = "The Quilt BIPoC Community"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
