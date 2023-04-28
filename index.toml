@@ -13,6 +13,10 @@ file = "config/boring_default_game_rules/config.json"
 hash = "2e949feb3fcb94055cb741bc992b8c46974eea7062450691d09b0f2efd96346a"
 
 [[files]]
+file = "config/byg/biomepedia.json5"
+hash = "a1f9e191b5cb81f6e51eca3590f571580b8faaacedbbbffffc5abfd639b85e56"
+
+[[files]]
 file = "config/fabrication/features.ini"
 hash = "02a10f2a9bd9f6d982c0ea39c58a028015cc547bfb917f3b9ffed2c05e0fe327"
 
