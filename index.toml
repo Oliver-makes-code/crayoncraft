@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "LICENSE.md"
+hash = "f6089cba01cb570a24712b41ab8a586ccd3cc5ef53dc266ca50b95c288956d2c"
+
+[[files]]
 file = "config/bclib/client.json"
 hash = "cd1290a9a24f565a59d30e46d3b0dce86d08e6ffd30717577b4002809d58ce0f"
 
