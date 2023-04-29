@@ -21,6 +21,10 @@ file = "config/fabrication/features.ini"
 hash = "02a10f2a9bd9f6d982c0ea39c58a028015cc547bfb917f3b9ffed2c05e0fe327"
 
 [[files]]
+file = "config/rightclickharvest.json"
+hash = "d67e15b4a79316f04091c0f7e67bd1ede0b9bee39cfa324ba25bac9a336abcbc"
+
+[[files]]
 file = "config/styled-chat.json"
 hash = "3ffc36f307a77974f11db3dbeacd789fa64248c5569bdfe0f02729a447298c09"
 
@@ -229,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "bb51c192ee643baa42c052b3695c5750f6cb01f444fb00783fb814f77668f6ef"
+metafile = true
+
+[[files]]
+file = "mods/raknetify.pw.toml"
+hash = "cb711ce2d177c3f43ca78b3fe83b5a597d1d3424cdfe93144c7298cd2acf7566"
 metafile = true
 
 [[files]]
