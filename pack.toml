@@ -1,12 +1,12 @@
 name = "CrayonCraft"
 author = "The Quilt BIPoC Community"
-version = "1.0.1"
+version = "1.0.2"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f83f03bec02a7723bc6096f415be77db227518bb5ceedd12a1c2d29bedfc2100"
+hash = "4cc4bfceda47994607c926a6e61c552ed54010d23117d829f6c8eb2e57ac95b7"
 
 [versions]
 minecraft = "1.19.2"
