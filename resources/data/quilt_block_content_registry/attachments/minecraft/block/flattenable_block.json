@@ -1,0 +1,11 @@
+{
+    "replace": "false",
+    "values": {
+        "byg:lush_grass_block": {
+            "Name": "byg:lush_grass_path"
+        },
+        "byg:lush_dirt": {
+            "Name": "byg:lush_grass_path"
+        }
+    }
+}

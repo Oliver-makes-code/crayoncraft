@@ -1,0 +1,8 @@
+{
+    "replace": "false",
+    "values": {
+        "byg:anthracite_block": 20000,
+        "byg:anthracite": 2400,
+        "byg:peat": 1200
+    }
+}
